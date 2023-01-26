@@ -6,6 +6,8 @@ A BUSD staking protocol with features, such as:
 - Progressively increasing APR.
 - Fees.
 - 100% decentralized, meaning no owner functionality.
+- Referral system.
+
 ### Audited by The Stamp
 https://the-stamp.com/2023/01/money-monster/
 
