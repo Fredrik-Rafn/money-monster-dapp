@@ -10,6 +10,8 @@ A BUSD staking protocol with features, such as:
 https://the-stamp.com/2023/01/money-monster/
 
 ## The dApp
-https://moneymonster.io/
-![image](https://user-images.githubusercontent.com/30301013/214820319-26f09e40-5ee1-46ef-b711-e151a1587252.png)
 Made with the old, but golden trio; HTML, CSS, JS (web3js, jquery).
+### Link
+https://moneymonster.io/
+### Screenshot
+![image](https://user-images.githubusercontent.com/30301013/214820319-26f09e40-5ee1-46ef-b711-e151a1587252.png)
